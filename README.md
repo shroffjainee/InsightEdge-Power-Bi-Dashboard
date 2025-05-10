@@ -83,7 +83,7 @@ Identify high and low-performing salespeople through multi-metric analysis.
     - Clickable for smooth transitions across pages
 
 
-## ** 📌 Key Learnings **
+## **📌 Key Learnings**
 - Practical experience with SQL for data preparation
 - Implementing star schema for modeling
 - Creating DAX measures like Net Revenue, Discount %, AOV, etc.
